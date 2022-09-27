@@ -6,7 +6,7 @@
 
 ## 🎨 Layout
 
-Layout made in [figma](<https://www.figma.com/file/Te4Zzg5rHODoj1Sf3u85DE/Ignite-Feed-(Community)?node-id=0%3A1>).
+[![Layout in Figma](https://github.com/VagnerNerves/default-readme/blob/main/assets/layout-in-figma.svg)](<https://www.figma.com/file/Te4Zzg5rHODoj1Sf3u85DE/Ignite-Feed-(Community)?node-id=0%3A1>)
 
 <!-- ## 🎥 Implementation Video
 
