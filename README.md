@@ -1,30 +1,27 @@
-# Ignite Feed
-
-Project under development
-
-<!-- <h1 align="center">
-  <img alt="Titulo do Projeto" title="Titulo do Projeto" src="https://github.com/vagnernerves/be-the-hero/blob/master/frontend/src/assets/bethehero_logo.png" />
+<h1 align="center">
+  <img alt="Ignite Feed" title="Ignite Feed" src="./src/assets/logoname-ignitefeed.svg" />
 </h1>
 
-Write here what the project is about.
+=> Project under development. <=
 
 ## 🎨 Layout
 
-Place the Layout Link.
+Layout made in [figma](<https://www.figma.com/file/Te4Zzg5rHODoj1Sf3u85DE/Ignite-Feed-(Community)?node-id=0%3A1>).
 
-## 🎥 Implementation Video
+<!-- ## 🎥 Implementation Video
 
 In the GitHub edit, drag the video that it already puts on github itself.
 
 ## 👏 Learning and more implementations
 
 Describe what you learned and implemented in the project.
+-->
 
 ## 💡 Technologies used
 
 - [x] Vite
 - [x] React
-- [x] React Query
+<!-- - [x] React Query
 - [x] Axios
 
 ## 🚀 Running the project
@@ -84,8 +81,8 @@ Start the server
 ## 📝 Routes
 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/link)
+-->
 
 ## 🌎 License
 
 This project is under the MIT license. See the [LICENSE](https://choosealicense.com/licenses/mit/) file for more details.
--->
