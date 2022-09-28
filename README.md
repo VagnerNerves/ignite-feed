@@ -22,12 +22,10 @@ Describe what you learned and implemented in the project.
 - [x] Vite
 - [x] React
 - [x] Phosphor Icons
-<!-- - [x] React Query
-- [x] Axios
 
 ## 🚀 Running the project
 
-### Back-end
+<!-- ### Back-end
 
 Clone the project
 
@@ -52,19 +50,20 @@ Start the server
 ```bash
   npm run start
 ```
+-->
 
 ### Front-end Web
 
 Clone the project
 
 ```bash
-  git clone https://link-para-o-projeto
+  git clone https://github.com/VagnerNerves/ignite-feed
 ```
 
 Enter the project directory
 
 ```bash
-  cd my-project
+  cd ignite-feed
 ```
 
 Install with dependencies
@@ -76,10 +75,10 @@ Install with dependencies
 Start the server
 
 ```bash
-  npm run start
+  npm run dev
 ```
 
-## 📝 Routes
+<!--## 📝 Routes
 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/link)
 -->
