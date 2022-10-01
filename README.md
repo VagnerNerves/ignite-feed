@@ -22,6 +22,7 @@ Describe what you learned and implemented in the project.
 - [x] Vite
 - [x] React
 - [x] Phosphor Icons
+- [x] date-fns
 
 ## 🚀 Running the project
 
