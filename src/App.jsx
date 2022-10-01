@@ -10,7 +10,7 @@ const posts = [
   {
     id: 1,
     author: {
-      avatarUtl: 'https://github.com/vagnernerves.png',
+      avatarUrl: 'https://github.com/VagnerNerves.png',
       name: 'Vagner Nerves',
       role: 'Developer Pleno'
     },
@@ -23,12 +23,12 @@ const posts = [
       },
       { type: 'link', content: 'jane.design/doctorcare' }
     ],
-    publishedAt: new Date('2022-05-03 20:00:00')
+    publishedAt: new Date('2022-09-30 20:00:00')
   },
   {
     id: 2,
     author: {
-      avatarUtl: 'https://github.com/diego3g.png',
+      avatarUrl: 'https://github.com/diego3g.png',
       name: 'Diego Fernandes',
       role: 'CTO @ Rocketseat'
     },
@@ -56,7 +56,7 @@ export function App() {
           {posts.map(post => {
             return (
               <Post
-                author={PopStateEvent.author}
+                author={post.author}
                 content={post.content}
                 publishedAt={post.publishedAt}
               />
