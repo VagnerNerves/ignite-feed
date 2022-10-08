@@ -6,11 +6,19 @@ Developed the Ignite Feed project where we have the profile and the post, and we
 
 ## 🎨 Layout
 
-[![Layout in Figma](https://github.com/VagnerNerves/default-readme/blob/main/assets/layout-in-figma.svg)](<https://www.figma.com/file/Te4Zzg5rHODoj1Sf3u85DE/Ignite-Feed-(Community)?node-id=0%3A1>)
+Layout developed by [Jonas Milan](https://www.instagram.com/jonasmilancc/). 
+
+[![Layout in Figma](https://github.com/VagnerNerves/default-readme/blob/main/assets/layout-in-figma.svg)](<https://www.figma.com/file/Te4Zzg5rHODoj1Sf3u85DE/Ignite-Feed-(Community)?node-id=0%3A1>)  
+
+
 
 ## 🎥 Implementation Video
 
-In the GitHub edit, drag the video that it already puts on github itself.
+
+
+https://user-images.githubusercontent.com/40831841/194712354-4462b9dc-4a52-458a-85f4-cb71dd039102.mp4
+
+
 
 ## 👏 Learning and more implementations
 
