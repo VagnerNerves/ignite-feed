@@ -2,20 +2,25 @@
   <img alt="Ignite Feed" title="Ignite Feed" src="./src/assets/logoname-ignitefeed.svg" />
 </h1>
 
-=> Project under development. <=
+Developed the Ignite Feed project where we have the profile and the post, and we can add comments to the post, in addition to liking and deleting them.
 
 ## 🎨 Layout
 
 [![Layout in Figma](https://github.com/VagnerNerves/default-readme/blob/main/assets/layout-in-figma.svg)](<https://www.figma.com/file/Te4Zzg5rHODoj1Sf3u85DE/Ignite-Feed-(Community)?node-id=0%3A1>)
 
-<!-- ## 🎥 Implementation Video
+## 🎥 Implementation Video
 
 In the GitHub edit, drag the video that it already puts on github itself.
 
 ## 👏 Learning and more implementations
 
-Describe what you learned and implemented in the project.
--->
+In this project we learn more about:
+
+- UseState - where we update the state of the variable, thus automatically changing the component.
+- Pass properties and functions to other components.
+- Validate form.
+- date-fns to format dates.
+- Use of TyScript.
 
 ## 💡 Technologies used
 
